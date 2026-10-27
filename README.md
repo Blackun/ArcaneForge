@@ -1,5 +1,14 @@
 # ⚒️ Arcane Forge: Merge & Restore (아케인 포지: 마법 공방 복구기)
 
+<p align="center">
+  <a href="https://blackun.github.io/ArcaneForge/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_지금_바로_웹에서_플레이하기_(Click_to_Play)-Arcane_Forge-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Play Arcane Forge on GitHub Pages" />
+  </a>
+</p>
+
+> 🌐 **라이브 게임 실행 링크 (GitHub Pages)**: **[https://blackun.github.io/ArcaneForge/](https://blackun.github.io/ArcaneForge/)**  
+> *(위 버튼 또는 링크를 클릭하면 별도 설치 없이 브라우저에서 즉시 게임이 실행됩니다!)*
+
 > **10년 전 「검은 일식」으로 폐허가 된 천공의 마법 공방 〈아케인 포지〉를 되살려라!**  
 > 7x7 그리드 드래그 앤 드롭 머지(Merge) · 이종 교차 연성(Cross-Crafting) · 보스 몬스터 토벌 · 비주얼 노벨 스토리가 결합된 판타지 웹 게임입니다.
 
