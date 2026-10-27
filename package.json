@@ -1,0 +1,12 @@
+{
+  "name": "arcane-forge-merge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Arcane Forge: Merge & Restore — 7x7 그리드 머지 & 이종 교차 연성 판타지 웹 게임",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-and-verify.mjs",
+    "verify": "node scripts/build-and-verify.mjs",
+    "start": "node scripts/serve.mjs 5147"
+  }
+}
